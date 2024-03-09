@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 Hello, this is DELEK, currently studying 1st grade Computer Science in a highschool in Bielsko-Biała, in the south of Poland. Besides programming, I take interest in a lot of things, including (but not limited to):
 - Public Transit
 - Math
@@ -18,4 +17,3 @@ I am a cat person, I have two cats: Rudzia, a 10 year old female cat, and Felek,
 - 📫 How to reach me: you can message me on Discord (@delek09)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I got the nickname DELEK from my favorite brand of Polish cookies, Delicje, which translates into Delicious in Polish
--->
