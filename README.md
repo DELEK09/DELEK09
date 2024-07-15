@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hello, this is DELEK, currently studying 1st grade Computer Science in a highschool in Bielsko-Biała, in the south of Poland. Besides programming, I take interest in a lot of things, including (but not limited to):
+Hello, this is DELEK, currently studying 2nd grade Computer Science in a highschool in Bielsko-Biała, in the south of Poland. Besides programming, I take interest in a lot of things, including (but not limited to):
 - Public Transit
 - Math
 - Geography
